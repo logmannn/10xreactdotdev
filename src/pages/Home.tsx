@@ -241,7 +241,7 @@ export function Home() {
         >
           Fast UI with React + MUI
           <br />
-          (Full hero section in 10 minutes)
+          (Full hero section in less than 10 minutes)
         </Typography>
 
         {/* Demo Video */}
